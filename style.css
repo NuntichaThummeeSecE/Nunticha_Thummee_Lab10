@@ -1,0 +1,10 @@
+.logo{
+    width: 15%;
+    height: auto;
+    transform: translateY(-4px);
+    padding: 1%;
+}
+
+.navbar-brand{
+    font-size: 1.5em;
+}
