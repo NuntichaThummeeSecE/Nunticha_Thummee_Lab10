@@ -9,4 +9,13 @@
     font-size: 1.5em;
 }
 
+body {
+    background: linear-gradient(90deg, #D3F3F3, #FFD6E5, #CEA2DE, #FBB17C); 
+    margin: 0; 
+}
+
+#heroSection{
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+}
 
