@@ -101,3 +101,12 @@ h2{
     border-color: white;
     color: white;
 }
+
+.custom-card:hover{
+    background: linear-gradient(-45deg,#d359ff, #00ffff, #ff005d );
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px 0 rgb(132, 74, 74);
+    transition: 0.3s;
+    color: white;
+}
