@@ -84,3 +84,9 @@ body {
 audio{
     margin-top: 20%;
 }
+
+h2{
+   background: linear-gradient(45deg,#d359ff, #00ffff, #ff005d );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; /* For WebKit browsers */
+}
