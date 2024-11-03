@@ -30,6 +30,7 @@ body {
 .card{
     border-radius: 10px !important; /*make it re-write over bootstrap*/
     overflow: hidden !important; 
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 .custom-card {
@@ -42,4 +43,14 @@ body {
 
 .custom-btn {
     background-color: rgba(255, 255, 255, 0.6);
+    border-color: black;
+    color: black;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.custom-btn:hover{
+    background: linear-gradient(45deg, #D3F3F3, #FFD6E5, #CEA2DE, #FBB17C); 
+    color: white;
+    border-color: white;
 }
