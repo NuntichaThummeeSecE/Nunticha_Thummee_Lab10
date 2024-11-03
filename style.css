@@ -86,7 +86,7 @@ audio{
 }
 
 h2{
-   background: linear-gradient(45deg,#d359ff, #00ffff, #ff005d );
+   background: linear-gradient(90deg,#d359ff,#00ffff, #ff005d,#00ffff );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; /* For WebKit browsers */
 }
