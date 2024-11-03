@@ -45,8 +45,7 @@ body {
     background-color: rgba(255, 255, 255, 0.6);
     border-color: black;
     color: black;
-    margin-left: 30%;
-    margin-top: 10%;
+    margin-top: 30%;
 }
 
 .custom-btn:hover{
@@ -110,3 +109,4 @@ h2{
     transition: 0.3s;
     color: white;
 }
+
