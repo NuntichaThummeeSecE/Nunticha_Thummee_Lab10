@@ -54,3 +54,33 @@ body {
     color: white;
     border-color: white;
 }
+
+#footer-bg{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.custom-btn2:hover{
+    background: linear-gradient(45deg, #D3F3F3, #FFD6E5, #CEA2DE, #FBB17C); 
+    color: white;
+    border-color: white;
+}
+ 
+.custom-nav:hover{
+    background: linear-gradient(45deg, #D3F3F3, #FFD6E5, #CEA2DE, #FBB17C);
+    border-radius: 5px;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.card-head{
+    font-weight: 100px;
+}
+
+.card-detail{
+    margin-bottom: 0;
+}
+
+audio{
+    margin-top: 20%;
+}
