@@ -23,3 +23,15 @@ body {
     background-color: rgba(255, 255, 255, 0.6);
 }
 
+.custom-card{
+    margin: 2%;
+}
+
+.card{
+    border-radius: 10px !important; /*make it re-write over bootstrap*/
+    overflow: hidden !important; 
+}
+
+.custom-card {
+    margin: 2%;
+}
