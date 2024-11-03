@@ -90,3 +90,14 @@ h2{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; /* For WebKit browsers */
 }
+
+.custom-btn3{
+    color: black;
+    border-color: black;
+}
+
+.custom-btn3:hover{
+    background: linear-gradient(45deg, #D3F3F3, #FFD6E5, #CEA2DE, #FBB17C);
+    border-color: white;
+    color: white;
+}
