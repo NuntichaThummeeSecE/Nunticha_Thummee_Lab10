@@ -1,4 +1,4 @@
-Music website name celestia
+Music website name Celestia
 
   I designed to use my lab5 (music theme) to compare the difference between styling on my own and styling by using Bootstrap. It turns out that using Bootstrap is convenient 
 but it has a lot of new keywords for styling such as margin - ms,pe-lg,col-md, etc. Moreover, in terms of responsive, I am also convenient as well but I still struggle with some parts
