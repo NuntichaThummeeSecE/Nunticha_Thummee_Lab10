@@ -39,3 +39,7 @@ body {
 .custom-margin-left{
     margin-left: 5%;
 }
+
+.custom-btn {
+    background-color: rgba(255, 255, 255, 0.6);
+}
